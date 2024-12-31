@@ -8,7 +8,19 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
 
 <a href="https://github.com/maiconrocha">
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=maiconrocha&show_icons=true&theme=tokyonight" />
-</a>
+</a>  
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### My Badges
 
 <!--START_SECTION:badges-->
 [![EKS (Container Service for Kubernetes) Subject Matter Expert](https://images.credly.com/size/110x110/images/dcac68b7-b407-4b42-ade8-4866337459e3/image.png)](http://www.credly.com/badges/b562f1fe-933c-4b78-9531-db6c27fb0396 "EKS (Container Service for Kubernetes) Subject Matter Expert")
