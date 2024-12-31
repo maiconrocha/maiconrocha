@@ -10,6 +10,9 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
   <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=maiconrocha&show_icons=true&theme=tokyonight" />
 </a>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 **maiconrocha/maiconrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
