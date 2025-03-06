@@ -23,6 +23,7 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
 ### My Badges
 
 <!--START_SECTION:badges-->
+[![Container Service (ECS) Subject Matter Expert](https://images.credly.com/size/110x110/images/3daedac3-90e8-41f5-ac0a-f6baa99b8b43/image.png)](http://www.credly.com/badges/4dd4f133-cb1d-42ca-8607-83cdf32516bc "Container Service (ECS) Subject Matter Expert")
 [![EKS (Container Service for Kubernetes) Subject Matter Expert](https://images.credly.com/size/110x110/images/dcac68b7-b407-4b42-ade8-4866337459e3/image.png)](http://www.credly.com/badges/b562f1fe-933c-4b78-9531-db6c27fb0396 "EKS (Container Service for Kubernetes) Subject Matter Expert")
 [![All Rounder Award](https://images.credly.com/size/110x110/images/68cb85d1-b3ac-48d7-a74e-eeed72982188/image.png)](http://www.credly.com/badges/6cc9a758-ea39-401a-8877-0553f9d47173 "All Rounder Award")
 [![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/8d411572-ce71-4c6b-adef-c7975bcefd05 "AWS Knowledge: Amazon EKS")
@@ -70,7 +71,6 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
 [![AWS Certified Data Analytics – Specialty](https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png)](http://www.credly.com/badges/3b5fc1ff-201c-4a38-8d43-f40a61c642ba "AWS Certified Data Analytics – Specialty")
 [![AWS Certified Advanced Networking – Specialty](https://images.credly.com/size/110x110/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png)](http://www.credly.com/badges/e9656b54-6518-4ca9-ade0-380d3072a533 "AWS Certified Advanced Networking – Specialty")
 [![AWS Certified Database – Specialty](https://images.credly.com/size/110x110/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)](http://www.credly.com/badges/108d5687-94df-4b2d-91b9-28132763d708 "AWS Certified Database – Specialty")
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/de194c2c-7649-4b32-968d-f8e039b542c2 "AWS Certified Security – Specialty")
 <!--END_SECTION:badges-->
 
 <!--
