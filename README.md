@@ -11,7 +11,6 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
 </a>  
 
 
-
 <br />
 <br />
 <br />
