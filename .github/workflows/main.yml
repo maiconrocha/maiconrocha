@@ -13,3 +13,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: maicon-alegre
+          BADGE_SIZE: 110
+          NUMBER_LAST_BADGES: 0
