@@ -2,26 +2,14 @@
 My name is Maicon Alegre.
 You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-010bb116/) profile if you want to know more about my career and current employer.
 
-<a href="https://github.com/maiconrocha">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconrocha&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight" />
-</a>
+<table style="border: none;">
+<tr>
+<td style="border: none;"><a href="https://github.com/maiconrocha"><img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconrocha&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight" /></a></td>
+<td style="border: none;"><a href="https://github.com/maiconrocha"><img height='150px' src="https://github-readme-stats.vercel.app/api?username=maiconrocha&show_icons=true&theme=tokyonight" /></a></td>
+</tr>
+</table>
 
-<a href="https://github.com/maiconrocha">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=maiconrocha&show_icons=true&theme=tokyonight" />
-</a>  
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-
-### My Badges
+## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/62990dd8-7679-49d2-acc7-5d6c2a0f7fa4" title="AWS Certified Machine Learning Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="80" height="80"></a>
