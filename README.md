@@ -12,6 +12,7 @@ You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-01
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/e96d14f7-042e-42a2-b6bc-843e11978af1" title="AWS Generative AI Foundational (L100)"><img src="https://images.credly.com/size/80x80/images/f6028fda-82b1-4a06-a9a1-ac6eb69de152/blob" alt="AWS Generative AI Foundational (L100)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1f931a4f-52f8-465c-aa21-131f5bdfcfff" title="AWS Certified Data Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9c7b6e1d-26f0-4f01-b114-6ac387db262d" title="AWS Certified Machine Learning – Specialty"><img src="https://images.credly.com/size/80x80/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="AWS Certified Machine Learning – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/62990dd8-7679-49d2-acc7-5d6c2a0f7fa4" title="AWS Certified Machine Learning Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="80" height="80"></a>
