@@ -2,13 +2,6 @@
 My name is Maicon Alegre.
 You may want to check my [linkedin](https://www.linkedin.com/in/maicon-alegre-010bb116/) profile if you want to know more about my career and current employer.
 
-<table style="border: none;">
-<tr>
-<td style="border: none;"><a href="https://github.com/maiconrocha"><img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconrocha&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight" /></a></td>
-<td style="border: none;"><a href="https://github.com/maiconrocha"><img height='150px' src="https://github-readme-stats.vercel.app/api?username=maiconrocha&show_icons=true&theme=tokyonight" /></a></td>
-</tr>
-</table>
-
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
